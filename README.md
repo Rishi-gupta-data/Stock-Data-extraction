@@ -143,12 +143,6 @@ print(ticker.info)
 
 ---
 
-## 📚 Documentation  
-
-Detailed examples and API references are available in the `docs/` folder.  
-
----
-
 ## 🤝 Contributing  
 
 Contributions are welcome!  
