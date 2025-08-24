@@ -118,7 +118,7 @@ graph TD
 
 ```bash
 # Clone the repository
-git clone [https://github.com/Rishi-gupta-data/Stock-Data-extraction.git]
+git clone https://github.com/Rishi-gupta-data/Stock-Data-extraction.git
 
 # Navigate to project
 cd Stock-Market-Data-Extraction
